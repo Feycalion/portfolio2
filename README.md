@@ -1,8 +1,40 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A portfolio featuring a series of projects I have completed during my time studying Frontend Development at Noroff. This project was built using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**
+- **Tailwind CSS**
+
+---
+
+## Setup and Installation
+
+To set up and run the project locally, follow these steps:
+
+### Prerequisites
+
+1. Ensure you have **Node.js** and **npm** installed. You can download them from [Node.js Official Website](https://nodejs.org/).
+2. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Feycalion/portfolio2
+   ```
+3. ```bash
+   cd portfolio
+   ```
+
+### Installation
+
+1. Install dependencies
+   ```bash
+   npm install
+   ```
+
+### Run the Project
+
+To start the project locally:
+
+1. ```bash
+   npm run dev
+   ```
