@@ -1,5 +1,8 @@
 # Portfolio
 
+
+![portfoliopic](https://github.com/user-attachments/assets/fddd9f4f-5744-407f-b47c-8cff09c8fd30)
+
 A portfolio featuring a series of projects I have completed during my time studying Frontend Development at Noroff. This project was built using React and Tailwind CSS.
 
 ## Technologies Used
